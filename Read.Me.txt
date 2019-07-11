@@ -1,0 +1,4 @@
+This is a code that gives you a graph of Temperature vs Humidity of a Weeks data according to the particular Date of that Week.
+This code is written using jupyter notebook which is in ipynb format.Using matplotlib libraries.
+The data is in the '1week.csv' file which can be modified to accordingly to your data.  
+ 
